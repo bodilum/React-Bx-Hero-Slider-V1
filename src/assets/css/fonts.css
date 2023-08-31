@@ -1,0 +1,52 @@
+@charset "utf-8";
+@font-face {
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Lato Medium';
+  src: url('../fonts/Lato-Medium.ttf');
+}
+@font-face {
+font-weight: normal;
+font-style: italic;
+font-family: 'Lato Medium Italic';
+src: url('../fonts/Lato-MediumItalic.ttf');
+}
+
+@font-face {
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Lato SemiBold';
+  src: url('../fonts/Lato-SemiBold.ttf');
+}
+@font-face {
+font-weight: normal;
+font-style: italic;
+font-family: 'Lato SemiBold Italic';
+src: url('../fonts/Lato-SemiBoldItalic.ttf');
+}
+
+@font-face {
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Lato ExtraLight';
+  src: url('../fonts/Lato-ExtraLight.ttf');
+}
+@font-face {
+font-weight: normal;
+font-style: italic;
+font-family: 'Lato ExtraLight Italic';
+src: url('../fonts/Lato-ExtraLightItalic.ttf');
+}
+
+@font-face {
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Lato ExtraBold';
+  src: url('../fonts/Lato-ExtraBold.ttf');
+}
+@font-face {
+font-weight: normal;
+font-style: italic;
+font-family: 'Lato ExtraBold Italic';
+src: url('../fonts/Lato-ExtraBoldItalic.ttf');
+}
